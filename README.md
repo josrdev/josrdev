@@ -1,12 +1,13 @@
 <div align="center">
 
-<p align="center">
+<!-- LOCAL CITY-POP BANNER -->
+<a href="https://github.com/josrdev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
-    <img src="assets/whoami-citypop-light.svg" width="960" alt="Perfil de J.dev con su personaje original de crayón, camiseta azulgrana y bandolera, en una terminal animada">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/josrdev-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/josrdev-banner-light.svg">
+    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de Joseph Fuentes">
   </picture>
-</p>
+</a>
 
 <br>
 
@@ -16,15 +17,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=josrdev&amp;style=flat-square&amp;color=BC3448&amp;label=visitas+al+perfil" alt="Visitas al perfil de josrdev">
 
-<br>
+## `$ whoami`
 
-<!-- LOCAL CITY-POP BANNER -->
-<a href="https://github.com/josrdev">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/josrdev-banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/josrdev-banner-light.svg">
-    <img src="assets/banner-light.v9.svg" width="960" alt="Perfil DevOps de Joseph Fuentes">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
+    <img src="assets/whoami-citypop-light.svg" width="960" alt="Perfil de J.dev con su personaje original de crayón, camiseta azulgrana y bandolera, en una terminal animada">
   </picture>
-</a>
+</p>
+
+<br>
 
 <div align="center">
